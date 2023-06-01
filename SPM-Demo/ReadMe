@@ -1,0 +1,3 @@
+This is Demo Screen with screen 1 has image loaded to it programtically from the SPM.
+screen 2 on click of the button in screen 1 has a imageview where image is loaded through attribute inspector which is not working.
+Erorr : screen 2 : Could not load the "book" image referenced from a nib in the bundle with identifier "com.ashok.SPM-Demo"
